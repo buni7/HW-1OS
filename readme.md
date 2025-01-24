@@ -10,4 +10,4 @@ Creates a directory. | mkdir | mkdir |
 Removes (deletes) a directory. | rmdir | rmdir |
 Graphically displays the folder structure of a drive or path. | tree | find, ls - R |
 Print working directory. | cd | pwd |
-A tool used primarily for creating empty files and updating the timestamps of existing files. | -  | touch  |
+A tool used primarily for creating empty files and updating the timestamps of existing files. | echo > failas.txt  | touch  |
